@@ -20,7 +20,7 @@ We can observe that as we train the model,the performance increases.
 <img src="https://github.com/Nandu960/Super-Resolution-on-Images-using-Filter-Flow/blob/master/old.png" width="600">
 
 ### 400 Images 5 Epochs 
-<img src="https://github.com/Nandu960/Super-Resolution-on-Images-using-Filter-Flow/blob/master/new.png" width="600">
+<img src="https://github.com/Nandu960/Super-Resolution-on-Images-using-Filter-Flow/blob/master/train2.png" width="600">
 
 
 ### 400 Images 25 Epochs
