@@ -1,0 +1,243 @@
+
+Epoch 1/50
+----------
+train
+	loss: 0.085890
+val
+	loss: 0.107403
+
+Epoch 2/50
+----------
+train
+	loss: 0.082129
+val
+	loss: 0.107465
+
+Epoch 3/50
+----------
+train
+	loss: 0.083524
+val
+	loss: 0.106904
+
+Epoch 4/50
+----------
+train
+	loss: 0.080877
+val
+	loss: 0.107094
+
+Epoch 5/50
+----------
+train
+	loss: 0.079723
+val
+	loss: 0.106850
+
+Epoch 6/50
+----------
+train
+	loss: 0.081768
+val
+	loss: 0.106738
+
+Epoch 7/50
+----------
+train
+	loss: 0.084860
+val
+	loss: 0.106612
+
+Epoch 8/50
+----------
+train
+	loss: 0.084165
+val
+	loss: 0.106671
+
+Epoch 9/50
+----------
+train
+	loss: 0.085744
+val
+	loss: 0.106675
+
+Epoch 10/50
+----------
+train
+
+Epoch 1/25
+----------
+train
+	loss: 0.084543
+val
+	loss: 0.106083
+
+Epoch 2/25
+----------
+train
+	loss: 0.079909
+val
+	loss: 0.106167
+
+Epoch 3/25
+----------
+train
+	loss: 0.083421
+val
+	loss: 0.106023
+
+Epoch 4/25
+----------
+train
+	loss: 0.082297
+val
+	loss: 0.105755
+
+Epoch 5/25
+----------
+train
+	loss: 0.084690
+val
+	loss: 0.105591
+
+Epoch 6/25
+----------
+train
+	loss: 0.080065
+val
+	loss: 0.105595
+
+Epoch 7/25
+----------
+train
+	loss: 0.081206
+val
+	loss: 0.105585
+
+Epoch 8/25
+----------
+train
+	loss: 0.082171
+val
+	loss: 0.105682
+
+Epoch 9/25
+----------
+train
+	loss: 0.080089
+val
+	loss: 0.105543
+
+Epoch 10/25
+----------
+train
+	loss: 0.083625
+val
+	loss: 0.105589
+
+Epoch 11/25
+----------
+train
+	loss: 0.086824
+val
+	loss: 0.105530
+
+Epoch 12/25
+----------
+train
+	loss: 0.083099
+val
+	loss: 0.105511
+
+Epoch 13/25
+----------
+train
+	loss: 0.082753
+val
+	loss: 0.105595
+
+Epoch 14/25
+----------
+train
+	loss: 0.078808
+val
+	loss: 0.105574
+
+Epoch 15/25
+----------
+train
+	loss: 0.082759
+val
+	loss: 0.105508
+
+Epoch 16/25
+----------
+train
+	loss: 0.080952
+val
+	loss: 0.105531
+
+Epoch 17/25
+----------
+train
+	loss: 0.086066
+val
+	loss: 0.105517
+
+Epoch 18/25
+----------
+train
+	loss: 0.078950
+val
+	loss: 0.105556
+
+Epoch 19/25
+----------
+train
+	loss: 0.081708
+val
+	loss: 0.105582
+
+Epoch 20/25
+----------
+train
+	loss: 0.084061
+val
+	loss: 0.105600
+
+Epoch 21/25
+----------
+train
+	loss: 0.087682
+val
+	loss: 0.105570
+
+Epoch 22/25
+----------
+train
+	loss: 0.083505
+val
+	loss: 0.105583
+
+Epoch 23/25
+----------
+train
+	loss: 0.087541
+val
+	loss: 0.105545
+
+Epoch 24/25
+----------
+train
+	loss: 0.083919
+val
+	loss: 0.105547
+
+Epoch 25/25
+----------
+train
+	loss: 0.081044
+val
+	loss: 0.105621
+Training complete in 95m 27s
